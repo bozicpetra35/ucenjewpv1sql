@@ -155,5 +155,4 @@ values
 (120, 50)
 ;
 
-select * from treneri
 
